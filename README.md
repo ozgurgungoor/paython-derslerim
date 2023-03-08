@@ -1,0 +1,2 @@
+# paython-derslerim
+Python öğreniyorum
